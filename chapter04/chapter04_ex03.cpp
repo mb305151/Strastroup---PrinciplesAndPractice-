@@ -1,4 +1,6 @@
-﻿
+//Vectors, Comparing, Sorting, Mean
+//Print distances, sum of distances, largest and smallest distance, mean distance
+
 #include <iostream>
 #include <vector>
 using namespace std;
